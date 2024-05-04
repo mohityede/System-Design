@@ -17,6 +17,7 @@
 
 - Liskov Substitution priciple states that whenever parent child relationship is there so both the class should be interchangable and subtitutable.
 - if i pass object of parent or child it should be work of both.
+- it should extent the capabilities of parent not reduce it.
 
 #### I: Interface Segregation
 
